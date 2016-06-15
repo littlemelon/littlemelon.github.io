@@ -1,0 +1,12 @@
+---
+title: "2016 Reading List"
+layout: post
+date: 2016-06-14 22:44
+tag:
+- reading
+blog: true
+star: true
+---
+
+##June
+You don't know JS
